@@ -27,7 +27,7 @@
         <mybatis-plus.version>3.0.6</mybatis-plus.version>
 
         <springfox-swagger2.version>2.9.2</springfox-swagger2.version>
-        <fastjson.version>1.2.54</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <commons-lang-version>2.6</commons-lang-version>
 
     </properties>
